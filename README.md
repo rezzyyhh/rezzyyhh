@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Rez
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/rezzyyhh/rezzyyhh/blob/main/Hi%2C%20i'm%20Rez.gif)
 
 I'm having fun exploring new ways to program.
 
