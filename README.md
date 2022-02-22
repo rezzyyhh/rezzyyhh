@@ -1,6 +1,6 @@
 # Hi, I'm Rez 👋
 
-![](https://github.com/rezzyyhh/rezzyyhh/blob/main/Hi.gif)
+![](https://github.com/rezzyyhh/rezzyyhh/blob/main/headerreader.gif)
 
 
 
